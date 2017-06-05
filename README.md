@@ -6,7 +6,9 @@
 <!-- Descrever um resumo sobre o trabalho. -->
 
 ### Resumo
-O objetivo deste projeto é desenvolver uma solução para que cidadãos possam exercer sua cidadania no contexto municipal de João Monlevade , através de um sistema que permite que estes proponham e votem em projetos que possam ser encaminhados para votação , também conhecidos como projetos de iniciativa popular. na disciplina CSI477 -- Sistemas WEB I. É uma breve descrição sobre o tema que será abordado, bem como o escopo, as restrições e demais questões pertinentes ao contexto. (modifique este texto conforme o contexto do seu trabalho :D)
+Atualmente, para que um projeto de inciativo popular seja encaminhado diretamente para votação na câmara municipal de um município, o mesmo deve conter o recolhimento de 5% de assinaturas do eleitorado local, o que em João Monlevade conrresponde a 3.000 eleitores/assinaturas. Este processo é muitas vezes honeroso e difícil de ser realizado pois ainda é feito em loco(onde o eleitor esta) e as assinaturas são colhidas em papel. Além disso muita vezes questionado devido a falta de meios eficazes para auditar e conferir identificação adequada dos eleitores.
+
+O objetivo deste trabalho é desenvolver uma aplicação que permita à cidadãos(eleitores) de João Monlevade exercerem sua cidadania diretamente, ou seja, votadndo em projetos de iniciativa popular através de uma plataforma que proverá confiabilidade , segurança e eficiência no processo de votação dos projetos.
 
 <!-- Apresentar o tema. -->
 ### 1. Tema
