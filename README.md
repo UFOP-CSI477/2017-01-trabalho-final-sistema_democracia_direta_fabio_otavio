@@ -43,7 +43,7 @@ Atualmente, para que um projeto de inciativo popular seja encaminhado diretament
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
-  Protótipos para as páginas (cadastro usuário , cadastro de projeto , dashbord projetos, dashborad de usuarios) foram elaborados, e podem ser encontrados em 
+  Protótipos para as páginas (cadastro usuário , cadastro de projeto , dashbord projetos, dashborad de usuarios) foram elaborados, e podem ser encontrados em https://github.com/UFOP-CSI477/2017-01-trabalho-final-sistema_democracia_direta_fabio_otavio
 
 ### 5. Referências
 Referências:
